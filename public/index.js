@@ -1,6 +1,6 @@
 // Set up a config object
 const config = {
-    googleApiKey: "AIzaSyB7xT16UiXsYTLS5_LaGLswFCPmA5tNVK8",
+    googleApiKey: "",
     layouts: {
         colors: {
             L: "#660066",
